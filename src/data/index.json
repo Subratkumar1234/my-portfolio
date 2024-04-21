@@ -1,0 +1,83 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"front-end Developer",
+            "description":"My name is subrat i am a frontend developer and good knowdge of Html5, Css3, Bootstrap, javascript and React.js, Basic Node.js I am passionate about staying up-to-date with the latest trends and developments in my field."
+        },
+        {
+            "id":"2",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"Ui & ux developer",
+            "description":"My name is subrat i am a ui and ux developer and i feel very good that i have created some different and unique webs and I am passionate about staying up-to-date with the latest trends and developments in my field."
+        },
+        {
+            "id":"3",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"React Developer",
+            "description":"i designed & implemented complecated system and solution in different Frame work i am confident that my skill along with in-depth knowdge of React will make a valuable asset to your team."
+        },
+        {
+            "id":"4",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"ui developer",
+            "description":" I designed & implemented complecated system and solution in different Frame work i am confident that my skill along with in-depth knowdge of React will make a valuable asset to your team. "
+        }
+
+    ],
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"front-end",
+            "description":"I am a results-oriented individual and am committed "
+        },
+        {
+            "id":"2",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"Ui & ux developer",
+            "description":"I am a positive and enthusiastic individual who is motivated by a desire to succeed"
+        },
+        {
+            "id":"3",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"React Developer",
+            "description":" i designed & implemented complecated system and solution in different Frame work "
+        }
+        
+
+    ],
+    "testimonial":[
+        {
+            "id":"1",
+            "count":"5",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"front-end",
+            "description":"lorem ipsum dologhdgh ghfyf drtdgfgfy ghfghfhgfg ghtftf ghtyftyfyt",
+            "auther_name":"Dianne Russel",
+            "auther_designation":"Startbuck"
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"front-end",
+            "description":"lorem ipsum dologhdgh ghfyf drtdgfgfy ghfghfhgfg ghtftf ghtyftyfyt",
+            "auther_name":"Kristian watson",
+            "auther_designation":"Luis watson"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"image/MY_PHOTO-edit.png",
+            "title":"front-end",
+            "description":"lorem ipsum dologhdgh ghfyf drtdgfgfy ghfghfhgfg ghtftf ghtyftyfyt",
+            "auther_name":"Kyather Murphy",
+            "auther_designation":"McDonald"
+        }
+        
+
+    ]
+
+}
